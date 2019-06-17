@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{CF26521F-2D42-4C46-B97F-6819B440F465}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servers", "Servers", "{83270878-76CC-4343-8D6A-5C4694C93383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcCoach.web", "EcCoach.web\EcCoach.web.csproj", "{A3A22D41-0D61-4364-B20E-F837B2F13E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A22D41-0D61-4364-B20E-F837B2F13E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A22D41-0D61-4364-B20E-F837B2F13E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A22D41-0D61-4364-B20E-F837B2F13E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A22D41-0D61-4364-B20E-F837B2F13E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3A22D41-0D61-4364-B20E-F837B2F13E1A} = {CF26521F-2D42-4C46-B97F-6819B440F465}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E03D28BC-0FCB-41A1-88BF-17C2E5F07058}
+	EndGlobalSection
+EndGlobal
